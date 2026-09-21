@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "marianazukin3@gmail.com",
+      "password": "$2a$10$bNOUylFp9h8t2LPQTTDCyOg7yF3R9yPeug8dNMM3njyVf8VwdGeYi",
+      "nombre": "Mariana ",
+      "id": 1
+    },
+    {
+      "email": "alejo12@gmail.com",
+      "password": "$2a$10$CqdaOCDTCx8mHR1QTT5jXubovaX8HVVtaMgsL96v6U3y3hx6uw0qO",
+      "nombre": "Alejandro",
+      "id": 2
+    }
+  ],
+  "tipo-documentos": [
+    {
+      "sigla": "CC",
+      "nombre_documento": "Cedula de ciudadania",
+      "id": 1
+    }
+  ],
+  "productos": [],
+  "negocios": []
+}
